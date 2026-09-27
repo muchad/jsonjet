@@ -39,6 +39,7 @@
 - ✅ **Validate & Analyze** — strict validation, detailed errors, and document statistics.
 - 📑 **Multi-tab & Split View** — work with multiple documents side by side.
 - 📤 **Export** — JSON, JSONL, XML, CSV, and YAML.
+- 📋 **Clipboard & text input** — open directly from clipboard or new text, with automatic JSON vs JSONL detection.
 - 🖥️ **Native desktop experience** — native menus, Preferences, recent files, drag & drop, and file associations.
 - 🎨 **Customizable appearance** — System, Light, and Dark themes, text size, row density, and more.
 - ⌨️ **Keyboard friendly** — shortcuts for navigation, search, tabs, zoom, and common actions.

@@ -9,7 +9,7 @@
 <h1 align="center">JSONJet</h1>
 
 <p align="center">
-  <strong>Fast JSON & JSONL viewer for very large files.</strong>
+  <strong>Fast JSON Explorer for Huge Files.</strong>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## See JSONJet in Action
 
 <p align="center">
-  <video src="assets/demo.mp4" autoplay loop muted playsinline poster="assets/cover.png" width="100%"></video>
+  <img src="assets/demo.gif" alt="Demo" width="600"/>
 </p>
 
 ## ✨ Features
@@ -46,16 +46,11 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-export.png" alt="JSONJet Export" width="100%">
+  <img src="assets/screenshot-export.png" alt="Export" width="30%">
+  <img src="assets/screenshot-path.png" alt="Path" width="30%">
+  <img src="assets/screenshot-analyze.png" alt="Analyze" width="30%">
 </p>
 
-<p align="center">
-  <img src="assets/screenshot-path.png" alt="JSONJet Go to Path" width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/screenshot-analyze.png" alt="JSONJet Analyze" width="100%">
-</p>
 
 ## 📥 Download
 
